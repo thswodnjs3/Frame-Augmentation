@@ -65,5 +65,14 @@ You can adjust the amount of Augmented Frame used. <br><br><br>
 ★★★Explain Parameters using tables ( Search needed )★★★ <br><br><br>
 
 
-## 7. Etc <br>
+## 7. Tasks <br>
+★★★List of Datasets where Frame Augmentation can be used.<br>
+Tasks and Datasets) Video Summarization, Action Recognition, Event Classification, Video Detection, Video Retrieval ... <br><br><br>
+
+
+## 8. Etc <br>
 ★★★Need to explain my situations and etc ... ★★★ <br><br><br>
+
+
+## 9. Reference <br>
+Lists All papers referenced.
