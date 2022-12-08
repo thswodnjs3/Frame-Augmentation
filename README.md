@@ -31,10 +31,10 @@ Video Frame is a frame which from other video, except a video that is going to b
 #### ① Insert <br>
 Insert method is that inserting Augmented Frame into original video. <br>
 ★★★Insert Method Frames ( PNGs )★★★ <br>
-<img src="https://user-images.githubusercontent.com/93433004/206332486-d0c863af-25b8-4c78-b4de-e389f7626496.png"/>
-<img src="https://user-images.githubusercontent.com/93433004/206332514-146c847d-a3ea-4c44-9167-d04843de6177.png"/>
-<img src="https://user-images.githubusercontent.com/93433004/206332548-ecc90ae7-0f5f-45e9-bf84-ae3770e59fea.png"/>
-<img src="https://user-images.githubusercontent.com/93433004/206332582-a3d5d3eb-a0f8-40fc-97be-3cbc21cddbad.png"/>
+<img width="50%" src="https://user-images.githubusercontent.com/93433004/206332486-d0c863af-25b8-4c78-b4de-e389f7626496.png"/>
+<img width="50%" src="https://user-images.githubusercontent.com/93433004/206332514-146c847d-a3ea-4c44-9167-d04843de6177.png"/>
+<img width="50%" src="https://user-images.githubusercontent.com/93433004/206332548-ecc90ae7-0f5f-45e9-bf84-ae3770e59fea.png"/>
+<img width="50%" src="https://user-images.githubusercontent.com/93433004/206332582-a3d5d3eb-a0f8-40fc-97be-3cbc21cddbad.png"/>
 ★★★Insert Method ( GIF )★★★ <br>
 #### ② Replace <br>
 Replace method is that replaceing frames in original video with Augmented Frame. <br>
