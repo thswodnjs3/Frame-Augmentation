@@ -22,10 +22,10 @@ Black Frame is a frame which of all values are 0. <br>
 <img src="https://user-images.githubusercontent.com/93433004/206332255-266648b0-3f6a-4992-9af5-5e165dc7b0ba.png"/><br>
 #### ② Noise Frame <br>
 Noise Frame is a frame which of all values assigned by random. <br>
-<img src="https://user-images.githubusercontent.com/93433004/206332124-4e3bc54b-240c-45ac-9e15-78c717423826.png"/><br>
+<img src="https://user-images.githubusercontent.com/93433004/206332313-1d2d69f2-4a47-401d-b7e5-a21942617c5e.png"/><br>
 #### ③ Video Frame <br>
 Video Frame is a frame which from other video, except a video that is going to be used. <br>
-<img src="https://user-images.githubusercontent.com/93433004/206332124-4e3bc54b-240c-45ac-9e15-78c717423826.png"/><br>
+<img src="https://user-images.githubusercontent.com/93433004/206332363-19baa379-b2a7-4182-ae2b-f640ac0839a8.png"/><br>
 
 ### Ⅱ. How to Use Augmented Frame <br>
 #### ① Insert <br>
