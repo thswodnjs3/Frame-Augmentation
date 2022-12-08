@@ -9,11 +9,9 @@ Frame Augmentation is easy, intuitive way to augment various, substantial amount
 
 ## 2. Example <br>
 ### Ⅰ. Original Video <br>
-★★★Original Video ( GIF )★★★ <br><br>
-<img src="https://user-images.githubusercontent.com/93433004/206331543-3b89febd-f0bf-43f3-98dd-8ac0aef59fff.gif"/>
+<img src="https://user-images.githubusercontent.com/93433004/206331543-3b89febd-f0bf-43f3-98dd-8ac0aef59fff.gif"/><br>
 ### Ⅱ. Augmented Video (Frame Augmentation) <br>
-★★★Augmented Video ( GIF )★★★ <br><br><br>
-<img src="https://user-images.githubusercontent.com/93433004/206331829-169a3ddc-650a-4677-96ea-42566ee018f9.gif"/>
+<img src="https://user-images.githubusercontent.com/93433004/206331829-169a3ddc-650a-4677-96ea-42566ee018f9.gif"/><br><br><br>
 
 
 ## 3. Methods <br>
