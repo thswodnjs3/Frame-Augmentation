@@ -10,7 +10,6 @@ Frame Augmentation is easy, intuitive way to augment various, substantial amount
 ## 2. Example <br>
 ### Ⅰ. Original Video <br>
 ★★★Original Video ( GIF )★★★ <br><br>
-![Uploading 영상-원본(Jumps).webm_20221208_100625.gif…]()
 ### Ⅱ. Augmented Video (Frame Augmentation) <br>
 ★★★Augmented Video ( GIF )★★★ <br><br><br>
 
