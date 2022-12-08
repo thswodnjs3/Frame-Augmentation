@@ -19,13 +19,13 @@ Frame Augmentation is easy, intuitive way to augment various, substantial amount
 ### Ⅰ. Type of Augmented Frame <br>
 #### ① Black Frame <br>
 Black Frame is a frame which of all values are 0. <br>
-★★★Black Frame ( PNG )★★★ <br>
+<img src="https://user-images.githubusercontent.com/93433004/206332124-4e3bc54b-240c-45ac-9e15-78c717423826.png"/><br>
 #### ② Noise Frame <br>
 Noise Frame is a frame which of all values assigned by random. <br>
-★★★Noise Frame ( PNG )★★★ <br>
+<img src="https://user-images.githubusercontent.com/93433004/206332124-4e3bc54b-240c-45ac-9e15-78c717423826.png"/><br>
 #### ③ Video Frame <br>
 Video Frame is a frame which from other video, except a video that is going to be used. <br>
-★★★Video Frame ( PNG )★★★ <br><br>
+<img src="https://user-images.githubusercontent.com/93433004/206332124-4e3bc54b-240c-45ac-9e15-78c717423826.png"/><br>
 
 ### Ⅱ. How to Use Augmented Frame <br>
 #### ① Insert <br>
