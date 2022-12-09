@@ -30,6 +30,7 @@ Video Frame is a frame which from other video, except a video that is going to b
 ### Ⅱ. How to Use Augmented Frame <br>
 #### ① Insert <br>
 Insert method is that inserting Augmented Frame into original video. <br>
+
 ##### Original Frame Array <br>
 <img width="160" height="120" src="https://user-images.githubusercontent.com/93433004/206332486-d0c863af-25b8-4c78-b4de-e389f7626496.png"/>
 <img width="160" height="120" src="https://user-images.githubusercontent.com/93433004/206332514-146c847d-a3ea-4c44-9167-d04843de6177.png"/>
