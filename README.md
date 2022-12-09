@@ -56,6 +56,7 @@ If fps of video is 3 and you want replace first frame every second, then frame o
 1 second ~ 2 second : First-Frame(replaced)    Second-Frame    Third-Frame <br>
 2 second ~ 3 second : First-Frame(replaced)    Second-Frame    Third-Frame <br>
 ... <br>
+
 ###### Original Frame Array <br>
 0 second ~ 1 second <br>
 <p float="left">
@@ -73,6 +74,7 @@ If fps of video is 3 and you want replace first frame every second, then frame o
   <img width="160" height="120" src="https://user-images.githubusercontent.com/93433004/206620737-ec084f90-be9b-467b-a87c-751f5f2dfd95.png" />
 </p> <br>
 ... <br>
+
 ###### Replace fixed Augmented Frame Array <br>
 0 second ~ 1 second <br>
 <p float="left">
@@ -90,11 +92,13 @@ If fps of video is 3 and you want replace first frame every second, then frame o
   <img width="160" height="120" src="https://user-images.githubusercontent.com/93433004/206620737-ec084f90-be9b-467b-a87c-751f5f2dfd95.png" />
 </p> <br>
 ... <br>
+
 ★★★Replace Fixed Method ( GIF )★★★ <br>
+
+
 ##### ⅱ) Random <br>
 Replace Random is that replacing frame by random. <br>
-★★★Replace Random Method Frames ( PNGs )★★★ <br>
-★★★Replace Random Method ( GIF )★★★ <br><br>
+The only difference is replace frame randomly, comparing to Replace fixed.
 
 ### Ⅲ. Amounts of Augmented Frame <br>
 You can adjust the amount of Augmented Frame used. <br><br><br>
