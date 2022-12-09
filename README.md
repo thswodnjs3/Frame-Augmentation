@@ -15,7 +15,6 @@ Frame Augmentation is easy, intuitive way to augment various, substantial amount
 
 
 ## 3. Methods <br>
-
 ### Ⅰ. Type of Augmented Frame <br>
 #### ① Black Frame <br>
 Black Frame is a frame which of all values are 0. <br>
@@ -48,7 +47,8 @@ Insert method is that inserting Augmented Frame into original video. <br>
 </p>
 
 ##### Insert Augmented Video <br>
-<img src="https://user-images.githubusercontent.com/93433004/206331829-169a3ddc-650a-4677-96ea-42566ee018f9.gif"/> <br><br><br>
+<img src="https://user-images.githubusercontent.com/93433004/206331829-169a3ddc-650a-4677-96ea-42566ee018f9.gif"/> <br>
+
 #### ② Replace <br>
 Replace method is that replaceing frames in original video with Augmented Frame. <br>
 This can be categorized into 2 ways ( fixed, random ). <br>
