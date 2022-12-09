@@ -25,11 +25,9 @@ Noise Frame is a frame which of all values assigned by random. <br>
 #### ③ Video Frame <br>
 Video Frame is a frame which from other video, except a video that is going to be used. <br>
 <img src="https://user-images.githubusercontent.com/93433004/206332363-19baa379-b2a7-4182-ae2b-f640ac0839a8.png"/><br>
-
 ### Ⅱ. How to Use Augmented Frame <br>
 #### ① Insert <br>
 Insert method is that inserting Augmented Frame into original video. <br>
-
 ##### Original Frame Array <br>
 <p float="left">
   <img width="160" height="120" src="https://user-images.githubusercontent.com/93433004/206332486-d0c863af-25b8-4c78-b4de-e389f7626496.png" />
