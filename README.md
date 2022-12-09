@@ -56,32 +56,41 @@ If fps of video is 3 and you want replace first frame every second, then frame o
 1 second ~ 2 second : First-Frame(replaced)    Second-Frame    Third-Frame <br>
 2 second ~ 3 second : First-Frame(replaced)    Second-Frame    Third-Frame <br>
 ... <br>
-★★★Replace Fixed Method Frames ( PNGs )★★★ <br>
+###### Original Frame Array <br>
+0 second ~ 1 second <br>
 <p float="left">
   <img width="160" height="120" src="https://user-images.githubusercontent.com/93433004/206332486-d0c863af-25b8-4c78-b4de-e389f7626496.png" />
   <img width="160" height="120" src="https://user-images.githubusercontent.com/93433004/206332514-146c847d-a3ea-4c44-9167-d04843de6177.png" />
-</p>
+</p> <br>
+1 second ~ 2 second <br>
 <p float="left">
   <img width="160" height="120" src="https://user-images.githubusercontent.com/93433004/206332548-ecc90ae7-0f5f-45e9-bf84-ae3770e59fea.png" />
   <img width="160" height="120" src="https://user-images.githubusercontent.com/93433004/206620535-0e0cc963-dfef-4a18-a5ea-c85cec7413e9.png" />
-</p>
+</p> <br>
+2 second ~ 3 second <br>
 <p float="left">
   <img width="160" height="120" src="https://user-images.githubusercontent.com/93433004/206620588-b6b8742b-3873-49ca-aa57-4cc1f4e1d8b5.png" />
   <img width="160" height="120" src="https://user-images.githubusercontent.com/93433004/206620737-ec084f90-be9b-467b-a87c-751f5f2dfd95.png" />
-</p>
+</p> <br>
+... <br>
+###### Replace fixed Augmented Frame Array <br>
+0 second ~ 1 second <br>
+<p float="left">
+  <img width="160" height="120" src="https://user-images.githubusercontent.com/93433004/206332313-1d2d69f2-4a47-401d-b7e5-a21942617c5e.png" />
+  <img width="160" height="120" src="https://user-images.githubusercontent.com/93433004/206332514-146c847d-a3ea-4c44-9167-d04843de6177.png" />
+</p> <br>
+1 second ~ 2 second <br>
+<p float="left">
+  <img width="160" height="120" src="https://user-images.githubusercontent.com/93433004/206332313-1d2d69f2-4a47-401d-b7e5-a21942617c5e.png" />
+  <img width="160" height="120" src="https://user-images.githubusercontent.com/93433004/206620535-0e0cc963-dfef-4a18-a5ea-c85cec7413e9.png" />
+</p> <br>
+2 second ~ 3 second <br>
+<p float="left">
+  <img width="160" height="120" src="https://user-images.githubusercontent.com/93433004/206332313-1d2d69f2-4a47-401d-b7e5-a21942617c5e.png" />
+  <img width="160" height="120" src="https://user-images.githubusercontent.com/93433004/206620737-ec084f90-be9b-467b-a87c-751f5f2dfd95.png" />
+</p> <br>
+... <br>
 ★★★Replace Fixed Method ( GIF )★★★ <br>
-<p float="left">
-  <img width="160" height="120" src="https://user-images.githubusercontent.com/93433004/206332486-d0c863af-25b8-4c78-b4de-e389f7626496.png" />
-  <img width="160" height="120" src="https://user-images.githubusercontent.com/93433004/206332514-146c847d-a3ea-4c44-9167-d04843de6177.png" />
-</p>
-<p float="left">
-  <img width="160" height="120" src="https://user-images.githubusercontent.com/93433004/206332548-ecc90ae7-0f5f-45e9-bf84-ae3770e59fea.png" />
-  <img width="160" height="120" src="https://user-images.githubusercontent.com/93433004/206620535-0e0cc963-dfef-4a18-a5ea-c85cec7413e9.png" />
-</p>
-<p float="left">
-  <img width="160" height="120" src="https://user-images.githubusercontent.com/93433004/206620588-b6b8742b-3873-49ca-aa57-4cc1f4e1d8b5.png" />
-  <img width="160" height="120" src="https://user-images.githubusercontent.com/93433004/206620737-ec084f90-be9b-467b-a87c-751f5f2dfd95.png" />
-</p>
 ##### ⅱ) Random <br>
 Replace Random is that replacing frame by random. <br>
 ★★★Replace Random Method Frames ( PNGs )★★★ <br>
