@@ -136,7 +136,7 @@ Replace Random is that replacing frame by random. <br>
 The only difference is replace frame randomly, comparing to Replace fixed.
 
 ### Ⅲ. Amounts of Augmented Frame <br>
-You can adjust the amount of Augmented Frame used. <br><br><br
+You can adjust the amount of Augmented Frame used. <br><br><br>
 
 
 ## 5. Task Extend <br>
