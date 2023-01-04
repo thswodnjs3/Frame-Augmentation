@@ -1,20 +1,55 @@
 # Frame Augmentation <br>
-This is Augmentation Technique, which can be applied to Video Data for Deep Learning <br><br><br>
+This is Augmentation Technique, which can be applied to Video Summarization.<br><br><br>
 
 
-## 1. Definition <br>
+## 1. Background <br>
+### Ⅰ. Video Summarization <br>
+Video Summarization is a task that makes a model which takes long video as input and then export short video as output.<br>
+Exported short video is a summarized version of input long video.<br>
+Summarized video should contain most import frames from original video.<br>
+### Ⅱ. Importance Score <br>
+The way model tell which frame is important in original video is based on Importance Score.<br>
+Importance Score is a value between 0 and 1, which is assigned to all frames.<br>
+Actually, Video Summarization Model takes array of frames and exports array of importance scores, which is assigned to each frame.<br>
+As you know, we have to assign importance score to all frames beforehand, and it takse too much time. (2 min lenght of video = at least 3,600 frames).<br>
+Also, importance score has a subjective problem, which means people assign different importance score on the same frame.<br>
+To get objective, manay people should assign importance score but it costs lot.<br>
+Therefore, there is less dataset in video summarization field, if we use importance score.<br>
+### Ⅲ. Augmented in Video Summarization <br>
+If you familiar with Video Summarization Task, there is a way called Augmented in Video Summarization.<br>
+But the term Augmented in Video Summarization is the way just using three more datasetes.<br>
+There are only two choices, whether we use Augmented setting or not.<br>
+Compared to Augmentation Technique used in Image-related task, it is so constrained way.<br>
+In Image-related task, we can use rotate,tilt,flip,shift,etc. So we can test under various settings and it is very easy to implement.<br>
+### Ⅳ. Augmentation technique in other video-related tasks <br>
+I've searched Augmentation techniques used in other video-related tasks.<br>
+Most of them using image augmentation to whole frames in a video.<br>
+There are also ways which using GAN or other Generator and anything else.<br>
+But those ways are too difficult to implement.<br>
+There also some papers mixing some frames from several videos and then making one frame.<br>
+I thought it is interesting bue most of them didn't consider time-axis at all.<br>
+Unlike image data, video data shows many frames in a row. It means we have to consider time-axis information when using video data.<br>
+And there are few papers deal such that.<br>
+So, to implement easily and also augmented data into time-axis, I propose Frame Augmentation.<br><br><br>
+
+
+## 2. Definition <br>
 Frame Augmentation use Augmented Frame(Fake Frame) to augment Original Video Data <br>
-Frame Augmentation is easy, intuitive way to augment various, substantial amounts of Video Data <br><br><br>
+Frame Augmentation is easy, intuitive way to augment various, substantial amounts of Video Data. <br>
+There are advantages when using Frame Augmentation.<br>
+1) It is easy. Just put Augmented Frame in video we're trying to use.<br>
+2) We augment video data not only image data, but also time-axis data. And I'm sure there are few people handling like that.<br>
+3) We can test several settings by using Frame Augmentation, like image Augmentation. <br><br><br>
 
 
-## 2. Example <br>
+## 3. Example <br>
 ### Ⅰ. Original Video <br>
 <img src="https://user-images.githubusercontent.com/93433004/206331543-3b89febd-f0bf-43f3-98dd-8ac0aef59fff.gif"/><br>
 ### Ⅱ. Augmented Video (Frame Augmentation) <br>
 <img src="https://user-images.githubusercontent.com/93433004/206331829-169a3ddc-650a-4677-96ea-42566ee018f9.gif"/><br><br><br>
 
 
-## 3. Methods <br>
+## 4. Methods <br>
 ### Ⅰ. Type of Augmented Frame <br>
 #### ① Black Frame <br>
 Black Frame is a frame which of all values are 0. <br>
@@ -101,29 +136,20 @@ Replace Random is that replacing frame by random. <br>
 The only difference is replace frame randomly, comparing to Replace fixed.
 
 ### Ⅲ. Amounts of Augmented Frame <br>
-You can adjust the amount of Augmented Frame used. <br><br><br>
+You can adjust the amount of Augmented Frame used. <br><br><br
 
 
-## 4. Install <br>
-★★★How to install ( Search needed )★★★ <br><br><br>
+## 5. Task Extend <br>
+Frame Augmentation 
 
 
-## 5. How to use <br>
-★★★Need to consider how to explain to use ( Search needed)★★★ <br><br><br>
-
-
-## 6. Parameters <br>
-★★★Explain Parameters using tables ( Search needed )★★★ <br><br><br>
-
-
-## 7. Tasks <br>
-★★★List of Datasets where Frame Augmentation can be used.<br>
-Tasks and Datasets) Video Summarization, Action Recognition, Event Classification, Video Detection, Video Retrieval ... <br><br><br>
-
-
-## 8. Etc <br>
+## 6. Experiment <br>
 ★★★Need to explain my situations and etc ... ★★★ <br><br><br>
 
 
-## 9. Reference <br>
+## 7. Discussion <br>
+Lists All papers referenced.
+
+
+## 8. Reference <br>
 Lists All papers referenced.
