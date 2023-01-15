@@ -148,6 +148,7 @@ I tested Frame Augmentation on Video Summarization task. <br>
 The datasets I used are two most used datasets in Video Summarization, which are [SumMe](https://gyglim.github.io/me/papers/GygliECCV14_vsum.pdf) and [TVSum](https://openaccess.thecvf.com/content_cvpr_2015/papers/Song_TVSum_Summarizing_Web_2015_CVPR_paper.pdf). <br>
 The model I used is [CA-SUM](https://dl.acm.org/doi/pdf/10.1145/3512527.3531404). <br>
 The result is as below. <br>
+### Ⅰ. Replace Fixed Frame <br>
 |Replace Fixed|SumMe|TVSum|
 |:---:|:---:|:---:|
 |Default|43.45|57.29|
@@ -160,6 +161,7 @@ The result is as below. <br>
 |Video Frame Front(×2)|42.56|58.33|
 |Video Frame Back (×2)|43.01|58.21|
 |Video Frame Both (×3)|**47.04**|58.76| <br><br>
+### Ⅱ. Replace Random Frame <br>
 |Replace Random|SumMe|TVSum|
 |:---:|:---:|:---:|
 |Default|43.45|57.29|
