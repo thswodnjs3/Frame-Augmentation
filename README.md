@@ -145,7 +145,21 @@ Frame Augmentation
 
 ## 6. Experiment <br>
 I tested Frame Augmentation on Video Summarization task. <br>
-I tested on two most used datasets in Video Summarization, which are [SumMe](https://gyglim.github.io/me/papers/GygliECCV14_vsum.pdf) and [TVSum](https://openaccess.thecvf.com/content_cvpr_2015/papers/Song_TVSum_Summarizing_Web_2015_CVPR_paper.pdf). <br>
+The datasets I used are two most used datasets in Video Summarization, which are [SumMe](https://gyglim.github.io/me/papers/GygliECCV14_vsum.pdf) and [TVSum](https://openaccess.thecvf.com/content_cvpr_2015/papers/Song_TVSum_Summarizing_Web_2015_CVPR_paper.pdf). <br>
+The model I used is [CA-SUM](https://dl.acm.org/doi/pdf/10.1145/3512527.3531404). <br>
+The result is as below. <br>
+|Replace Fixed|SumMe|TVSum|
+|:---:|:---:|:---:|
+|Default|43.45|57.29|
+|Black Frame Front(×2)|45.31|57.93|
+|Black Frame Back (×2)|41.53|58.99|
+|Black Frame Both (×3)|43.62|57.15|
+|Noise Frame Front(×2)|45.90|58.23|
+|Noise Frame Back (×2)|44.89|58.42|
+|Noise Frame Both (×3)|45.21|59.20|
+|Video Frame Front(×2)|42.56|58.33|
+|Video Frame Back (×2)|43.01|58.21|
+|Video Frame Both (×3)|47.04|58.76|
 <br><br><br>
 
 
