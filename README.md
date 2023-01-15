@@ -156,10 +156,19 @@ The result is as below. <br>
 |Black Frame Both (×3)|43.62|57.15|
 |Noise Frame Front(×2)|45.90|58.23|
 |Noise Frame Back (×2)|44.89|58.42|
-|Noise Frame Both (×3)|45.21|<span style="color:red">59.20</span>|
+|Noise Frame Both (×3)|45.21|**59.20**|
 |Video Frame Front(×2)|42.56|58.33|
 |Video Frame Back (×2)|43.01|58.21|
-|Video Frame Both (×3)|47.04|58.76|
+|Video Frame Both (×3)|**47.04**|58.76|<br>
+|Replace Random|SumMe|TVSum|
+|:---:|:---:|:---:|
+|Default|43.45|57.29|
+|Black Frame (×2)|45.49|58.54|
+|Black Frame (×3)|**45.74**|58.83|
+|Noise Frame (×2)|44.09|59.05|
+|Noise Frame (×3)|43.56|58.31|
+|Video Frame (×2)|42.99|58.50|
+|Video Frame (×3)|44.47|58.07|<br>
 <br><br><br>
 
 
