@@ -156,7 +156,7 @@ The result is as below. <br>
 |Black Frame Both (×3)|43.62|57.15|
 |Noise Frame Front(×2)|45.90|58.23|
 |Noise Frame Back (×2)|44.89|58.42|
-|Noise Frame Both (×3)|45.21|59.20|
+|Noise Frame Both (×3)|45.21|<span style="color:red">59.20</span>|
 |Video Frame Front(×2)|42.56|58.33|
 |Video Frame Back (×2)|43.01|58.21|
 |Video Frame Both (×3)|47.04|58.76|
