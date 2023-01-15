@@ -144,7 +144,9 @@ Frame Augmentation
 
 
 ## 6. Experiment <br>
-★★★Need to explain my situations and etc ... ★★★ <br><br><br>
+I tested Frame Augmentation on Video Summarization task. <br>
+I tested on two most used datasets in Video Summarization, which are [SumMe](https://gyglim.github.io/me/papers/GygliECCV14_vsum.pdf) and [TVSum](https://openaccess.thecvf.com/content_cvpr_2015/papers/Song_TVSum_Summarizing_Web_2015_CVPR_paper.pdf). <br>
+<br><br><br>
 
 
 ## 7. Discussion <br>
