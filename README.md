@@ -159,7 +159,7 @@ The result is as below. <br>
 |Noise Frame Both (×3)|45.21|**59.20**|
 |Video Frame Front(×2)|42.56|58.33|
 |Video Frame Back (×2)|43.01|58.21|
-|Video Frame Both (×3)|**47.04**|58.76|<br>
+|Video Frame Both (×3)|**47.04**|58.76||<br>
 |Replace Random|SumMe|TVSum|
 |:---:|:---:|:---:|
 |Default|43.45|57.29|
