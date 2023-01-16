@@ -184,12 +184,11 @@ The result is as below. The best result of each setting was highlighted. Also, I
 ### Ⅳ. My Own Opinion <br>
 As you can see above table, Frame Augmentation helps export better result, comparing to default performance. So, Frame Augmentation can be helpful for video summarization task. <br>
 It is possible for you to doubt the improvement is not big enough. But like in image augmentation for image classification task, people don't know which augmentation setting is the best way for improving performance. They just tested several augmentation settings to improve performance, considering their model and dataset they used. So, like that way, Frame Augmentation give you some choices, some of them might help you to improve your model for video-related task. <br>
-If you're interested in video summarization task, I'll give some of my opinions which I've came up with during Frame Augmentation experiment in Discussion part later. <br><br><br>
+If you're interested in video summarization task, I'll give some of my opinions which I've came up with during Frame Augmentation experiment in Discussion part below. <br><br><br>
 
 
 ## 7. Discussion <br>
-#### ① Video Summarization Models doesn't learn visaul representation enough. <br>
-Like I said, I used 
+In this part, I'll explain my opinion while I'm performing Frame Augmentation experiment. 
 
 ** My Personal Opinion **
 
