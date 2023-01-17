@@ -188,9 +188,13 @@ If you're interested in video summarization task, I'll give some of my opinions 
 
 
 ## 7. Discussion <br>
-In this part, I'll explain my opinion while I'm performing Frame Augmentation experiment. 
-
-** My Personal Opinion **
+In this part, I'll explain my opinion while I'm performing Frame Augmentation experiment. This is just my personal opinion.<br>
+### Ⅰ. Video Summarization model doesn't learn visual representation enough. <br>
+I thought video summarization model doesn't learn visual representation enough based on two reasons. <br>
+First, the result of pretrained model. I also did Frame Augmentation experiment on pretrained CA-SUM model, and I found out that all of them resulted worse score than pretrained CA-SUM without Frame Augmentation. So, if we use Frame Augmentation on pretrained CA-SUM model, the result got worse. Like I said, I didn't know which frames CA-SUM model use to train. At first, I thought it would get better if we trained CA-SUM model more using Frame Augmentation. But it results worse performance.  I also did the same experiment on PGL-SUM model, which also showed good performance. But it also gets worse when we did the same thing. It means that only some specific frames made video summarization model better, but others did the opposite. Based on these facts, video summarization model is heavily depended on which frames they used to train. <br>
+Second, the results of using Frame Augmentation is not consistent. We can't find out any relationship between results and Frame Augmentation setting(method, number of datasets, frame type). I did various experiments with different settings, which means the visual representation varies depending on the Frame Augmentation setting. But they can't handle it. So the problem of video summarization is not related to overfitting of few datasets, it is related the fact that video summarization model can not even learn existing datasets enough at all. There could be several reasons why video summarization model can't learn existing datasets, such as the difference of content, bad image resolution compared to image-related deep learning task, inability of learning temporal meaning in the video, etc. <br>
+### Ⅱ. Importance Score problem. <br>
+As you know, the importance score prediction is a huge problem. Importance Score is very subjective. ["Rethinking the Evaluation of Video Summaries"](https://arxiv.org/pdf/1903.11328.pdf) insisted that importance score distribution of the same video varies depending on the user. And in SumMe, TVSum dataset, each video's category is different, but most of papers force models to be learnd to find out the relationship in such datasets, which of data is unrelated each other at all. So we have to let model summarize video not based on the importance score. <br>
 
 
 ## 8. Reference <br>
