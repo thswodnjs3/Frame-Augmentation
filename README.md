@@ -128,8 +128,6 @@ If fps of video is 3 and you want replace first frame every second, then frame o
 </p> <br>
 ... <br>
 
-★★★Replace Fixed Method ( GIF )★★★ <br>
-
 
 ##### ⅱ) Random <br>
 Replace Random is that replacing frame by random. <br>
