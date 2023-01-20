@@ -137,11 +137,7 @@ The only difference is replace frame randomly, comparing to Replace fixed.
 You can adjust the amount of Augmented Frame used. <br><br><br>
 
 
-## 5. Task Extend <br>
-Frame Augmentation 
-
-
-## 6. Experiment <br>
+## 5. Experiment <br>
 I tested Frame Augmentation on Video Summarization task. <br>
 The datasets I used are two most used datasets in Video Summarization, which are [SumMe](https://gyglim.github.io/me/papers/GygliECCV14_vsum.pdf) and [TVSum](https://openaccess.thecvf.com/content_cvpr_2015/papers/Song_TVSum_Summarizing_Web_2015_CVPR_paper.pdf). <br>
 The model I used is [CA-SUM](https://dl.acm.org/doi/pdf/10.1145/3512527.3531404). <br>
@@ -185,7 +181,7 @@ It is possible for you to doubt the improvement is not big enough. But like in i
 If you're interested in video summarization task, I'll give some of my opinions which I've came up with during Frame Augmentation experiment in Discussion part below. <br><br><br>
 
 
-## 7. Discussion <br>
+## 6. Discussion <br>
 In this part, I'll explain my opinion while I'm performing Frame Augmentation experiment. This is just my personal opinion.<br>
 ### Ⅰ. Video Summarization model doesn't learn visual representation enough. <br>
 I thought video summarization model doesn't learn visual representation enough based on two reasons. <br>
@@ -197,7 +193,7 @@ As you know, the importance score prediction is a huge problem. Importance Score
 Frame Augmentation can be used all video-related task I think. For example, when it comes to Action Recognition, we can augment video data by Frame Augmentation. Good model can guess what action is happening in the video, even though there is a noise between each frames. On the same way, I think Frame Augmentation can be used in Video Summarization, Action Recognition, Event Classification, etc.
 
 
-## 8. Reference <br>
+## 7. Reference <br>
 1. SumMe <br>
 [Gygli, Michael, et al. "Creating summaries from user videos." European conference on computer vision. Springer, Cham, 2014.](https://proceedings.neurips.cc/paper/2021/file/7503cfacd12053d309b6bed5c89de212-Paper.pdf) <br>
 2. TVSum <br>
