@@ -199,10 +199,12 @@ Frame Augmentation can be used all video-related task I think. For example, when
 
 ## 8. Reference <br>
 1. SumMe <br>
-[Gygli, Michael, et al. "Creating summaries from user videos." European conference on computer vision. Springer, Cham, 2014.](https://proceedings.neurips.cc/paper/2021/file/7503cfacd12053d309b6bed5c89de212-Paper.pdf)
+[Gygli, Michael, et al. "Creating summaries from user videos." European conference on computer vision. Springer, Cham, 2014.](https://proceedings.neurips.cc/paper/2021/file/7503cfacd12053d309b6bed5c89de212-Paper.pdf) <br>
 2. TVSum <br>
-[Song, Yale, et al. "Tvsum: Summarizing web videos using titles." Proceedings of the IEEE conference on computer vision and pattern recognition. 2015.](https://openaccess.thecvf.com/content_cvpr_2015/papers/Song_TVSum_Summarizing_Web_2015_CVPR_paper.pdf)
+[Song, Yale, et al. "Tvsum: Summarizing web videos using titles." Proceedings of the IEEE conference on computer vision and pattern recognition. 2015.](https://openaccess.thecvf.com/content_cvpr_2015/papers/Song_TVSum_Summarizing_Web_2015_CVPR_paper.pdf) <br>
 3. CA-SUM <br>
-[Apostolidis, Evlampios, et al. "Summarizing Videos using Concentrated Attention and Considering the Uniqueness and Diversity of the Video Frames." Proceedings of the 2022 International Conference on Multimedia Retrieval. 2022.](https://dl.acm.org/doi/pdf/10.1145/3512527.3531404)
+[Apostolidis, Evlampios, et al. "Summarizing Videos using Concentrated Attention and Considering the Uniqueness and Diversity of the Video Frames." Proceedings of the 2022 International Conference on Multimedia Retrieval. 2022.](https://dl.acm.org/doi/pdf/10.1145/3512527.3531404) <br>
 4. Rethinking the Video Summarization <br>
-[Otani, Mayu, et al. "Rethinking the evaluation of video summaries." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2019.](https://openaccess.thecvf.com/content_CVPR_2019/papers/Otani_Rethinking_the_Evaluation_of_Video_Summaries_CVPR_2019_paper.pdf)
+[Otani, Mayu, et al. "Rethinking the evaluation of video summaries." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2019.](https://openaccess.thecvf.com/content_CVPR_2019/papers/Otani_Rethinking_the_Evaluation_of_Video_Summaries_CVPR_2019_paper.pdf) <br>
+5. Survey on Videos Data Augmentation for Deep Learning Models <br>
+[Cauli, Nino, and Diego Reforgiato Recupero. "Survey on Videos Data Augmentation for Deep Learning Models." Future Internet 14.3 (2022): 93.](https://www.mdpi.com/1999-5903/14/3/93) <br>
