@@ -204,4 +204,5 @@ Frame Augmentation can be used all video-related task I think. For example, when
 [Song, Yale, et al. "Tvsum: Summarizing web videos using titles." Proceedings of the IEEE conference on computer vision and pattern recognition. 2015.](https://openaccess.thecvf.com/content_cvpr_2015/papers/Song_TVSum_Summarizing_Web_2015_CVPR_paper.pdf)
 3. CA-SUM
 [Apostolidis, Evlampios, et al. "Summarizing Videos using Concentrated Attention and Considering the Uniqueness and Diversity of the Video Frames." Proceedings of the 2022 International Conference on Multimedia Retrieval. 2022.](https://dl.acm.org/doi/pdf/10.1145/3512527.3531404)
-
+4. Rethinking the Video Summarization
+[Otani, Mayu, et al. "Rethinking the evaluation of video summaries." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2019.](https://openaccess.thecvf.com/content_CVPR_2019/papers/Otani_Rethinking_the_Evaluation_of_Video_Summaries_CVPR_2019_paper.pdf)
